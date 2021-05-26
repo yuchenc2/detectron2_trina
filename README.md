@@ -2,7 +2,7 @@
 
 ## Description
 
-This implementation uses the Detectron2 2D image recognition library to perform 3D segmentation on RGBD photos taken from the the TRINA robot.
+This implementation uses the Detectron2 2D image recognition library to perform 3D segmentation on RGBD photos taken from the the TRINA robot. The goal is to create a segmented object from the cluttered scene for the next element in the robot manipulationg and grasping pipeline: grasping point generation on a single object.
 
 Example: An RGBD Image of a banana
 
